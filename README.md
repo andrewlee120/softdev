@@ -25,7 +25,7 @@ We made a website that allows you to post blogs and comment on blogs.
   * 5/login/andrew_tina
  * regexp
   * Andrew Lee, Miranda Chaiken 
-	* 5/regexp/miranda_andrewlee
+  * 5/regexp/miranda_andrewlee
  * intro-proj 1
   * Andrew Lee, Tina Lee
   * 5/intro-proj1/andrewlee_tinalee
