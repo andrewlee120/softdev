@@ -18,6 +18,12 @@ We made a website that lets you search for who or when questions using data scra
 We made a website that allows you to post blogs and comment on blogs.
 #### https://github.com/Zilby/SQL-Blog.git
 
+### API Project
+#### Andrew Lee, Tina Lee, Eric Wong
+#### Description
+We made a website in which you enter a city, and it gives you a weather alert and some pictures of what it is.
+#### https://github.com/ericwongg/api.git
+
 ## Mini Projects
 
  * login
