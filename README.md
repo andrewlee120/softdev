@@ -4,6 +4,12 @@ Andrew Lee
 # Fall Semester
 Period 5
 
+##Final Project
+#### Description
+Minesweeper in real life.
+#### https://github.com/MineCache/Minesweeper.git
+
+
 ## Main Projects
 
 ### Query Search 
