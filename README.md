@@ -5,8 +5,10 @@ Andrew Lee
 Period 5
 
 ##Final Project
+#### Andrew Lee, Harrison Chiu, Tina Lee
 #### Description
-Minesweeper in real life.
+Minesweeper using real life coordinates.
+#### Video: http://youtu.be/pv3cDqlN7vo
 #### https://github.com/MineCache/Minesweeper.git
 
 
